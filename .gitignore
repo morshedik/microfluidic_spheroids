@@ -1,0 +1,28 @@
+# Ignore virtual environment and large files
+venv/
+__pycache__/
+models/
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Large data files
+*.h5
+*.hdf5
+
+# Ignore image data folders
+data/
+images/
+masks/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+masks/
