@@ -25,4 +25,3 @@ masks/
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
 notebooks/.ipynb_checkpoints/
-masks/
