@@ -18,7 +18,8 @@ __pycache__/
 *.hdf5
 
 # Ignore image data folders
-data/
+data/*
+!data/README.md
 images/
 masks/
 
